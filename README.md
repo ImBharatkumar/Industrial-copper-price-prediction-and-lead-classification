@@ -29,4 +29,5 @@ The solution must include the following steps:
 
 
 # Usage
-git clone 
+* clone following code to your local machine.
+git clone https://github.com/ImBharatkumar/Industrial-copper-price-prediction-and-lead-classification.git
